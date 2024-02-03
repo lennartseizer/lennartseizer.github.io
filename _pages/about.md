@@ -16,7 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Postdoc @ [University Hospital Tübingen](https://www.medizin.uni-tuebingen.de/en-de/startseite)  •  Previously: [MUI](https://www.i-med.ac.at/mypoint/index.xml.en) / [LFU](https://lfuonline.uibk.ac.at/public/lfuonline.home)  • Psychology ~ Biology ~ Data Science
+Postdoc @ [University Hospital Tübingen](https://www.medizin.uni-tuebingen.de/en-de/startseite)  •  Previously: [MUI](https://www.i-med.ac.at/mypoint/index.xml.en) / [LFU](https://lfuonline.uibk.ac.at/public/lfuonline.home)  
+Psychology ~ Biology ~ Data Science
 
 I am interested on solving challenging problems at the intersection of psychology and biology using intensive longitudinal data and time-series analysis to explore
 - <a href='https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0290032'>between- and within-person differences in psychoneuroimmunology</a> and <a href='https://www.biorxiv.org/content/10.1101/2024.01.10.575001v1.abstract'>what may drive such heterogeneity</a>, 
