@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-New preprint: https://www.biorxiv.org/content/10.1101/2024.01.10.575001v1
+New preprint: [Timing matters: A meta-analysis on the dynamic effect of stress on salivary immunoglobulin](https://www.biorxiv.org/content/10.1101/2024.01.10.575001v1)
 
