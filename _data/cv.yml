@@ -1,95 +1,76 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Lennart Seizer
-    - name: Date of Birth
-      value: 17th March 1995
+#- title: General Information
+#  type: map
+#  contents:
+#    - name: Full Name
+#      value: Lennart Seizer
+#    - name: Date of Birth
+#      value: 17th March 1995
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: MDS Data Science
+      institution: Leopold Franzens University, Austria
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: PhD, MSc, BSc Psychology
+      institution: Medical University Innsbruck & Leopold Franzens University, Austria
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - title: 
+          contents:
+    - title: BSc Biology
+      institution: University of New Orleans, USA & Leopold Franzens University, Austria
+      year: 2019
+      description:
+        - title: 
+          contents:
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral researcher
+      institution: University Clinic for Psychiatry and Psychotherapy, University Hospital Tübingen, Germany
+      year: 2022 - today
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: 
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+    - title: Doctoral student
+      institution: University Clinic for Medical Psychology, Medical University Innsbruck, Austria
+      year: 2020 - 2022
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - title: 
+          contents:
+    - title: Research assistant
+      institution: Institute of Molecular Pharmacology, Medical University Innsbruck, Austria
+      year: 2020 - 2020
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+        - title: 
+          contents:
+    - title: Research assistant
+      institution: Department of Psychiatry, Psychotherapy and Psychosomatics, Medical University Innsbruck, Austria
+      year: 2015 - 2017
+      description:
+        - title: 
+          contents:
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+      - Travel grant from the Society of Ambulatory Assessment 
+      -	Scholarship of the European Psychoneuroimmunology Autumn School Series 
+    - year: 2022
       items:
-        - Max Planck Medal
+        -	Presentation Award, P-Science Day at the Leopold-Franzens University of Innsbruck 
+        -	Scholarship of the European Psychoneuroimmunology Autumn School Series 
+    - year: 2020
+      items:
+        -	University of New Orleans’ President’s List for exceptional academic performance
+    - year: 2019
+      items:
+        - Jubilee performance scholarship from the University of New Orleans for academic excellence 
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
