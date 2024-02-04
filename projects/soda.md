@@ -1,1 +1,0 @@
-09adc254106d6de48baae23c18e498e6abaafd78.png
