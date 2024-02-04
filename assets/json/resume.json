@@ -49,18 +49,20 @@
     {
       "institution": "Leopold-Franzens University Innsbruck, Austria",
       "studyType": "MDS Data Science",
+      "startDate": "2022",
       "endDate": "2024"
     },
     {
       "institution": "Medical University & Leopold-Franzens University Innsbruck, Austria",
       "studyType": "PhD, MSc, BSc Psychology",
-      "startDate": "2023",
-      "endDate": ""
+      "startDate": "2014",
+      "endDate": "2023"
     },
      {
       "institution": "Leopold-Franzens University, Austria & University of New Orleans, USA",
       "studyType": "BSc Biology",
-      "date": "2019"
+      "startDate": "2016",
+      "endDate": "2019"
     }
   ],
   "awards": [
