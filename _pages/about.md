@@ -20,7 +20,7 @@ Psychology ~ Biology ~ Data Science
 
 I am interested in solving challenging problems at the intersection of psychology and biology using intensive longitudinal data and time-series analysis to explore
 - dynamic characteristics and time-variance of biopsychological variables and their covariance structures
-- between- and within-person differences in psychoneuroimmunology what may drive such heterogeneity
+- between- and within-person differences in psychoneuroimmunology and what may drive such heterogeneity
 - classification and forecasting tasks in psychiatry using time-series analysis
 - conceptual and methodological improvement of ambulatory assessment approaches
 
