@@ -18,8 +18,8 @@ Postdoc @ [University Hospital Tübingen](https://www.medizin.uni-tuebingen.de/e
 Psychology ~ Biology ~ Data Science
 
 I am interested in solving challenging problems at the intersection of psychology and biology using intensive longitudinal data and time-series analysis to explore
-- dynamic characteristics and time-variance of biopsychological variables and their covariance structures
-- between- and within-person differences in psychoneuroimmunology and what may drive such heterogeneity
-- classification and forecasting tasks in psychiatry using time-series analysis
-- conceptual and methodological improvement of ambulatory assessment approaches
+- dynamic characteristics and time-variance of biopsychological variables and their covariance structures [[1](https://doi.org/10.1016/j.bbi.2024.04.004),[2](https://doi.org/10.1371/journal.pone.0290032)]
+- between- and within-person variation and what may drive such heterogeneity [[3](https://doi.org/10.1111/psyp.14577)]
+- classification and forecasting tasks in psychiatry using time-series analysis [[4](https://doi.org/10.1016/j.invent.2024.100733)]
+- conceptual and methodological improvement of ambulatory assessment approaches [[5](https://doi.org/10.1016/j.bbi.2024.04.039)]
 
